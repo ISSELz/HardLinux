@@ -20,7 +20,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/HardLinux.git
+git clone https://github.com/ISSELz/HardLinux.git
 cd HardLinux
 ```
 2. (Optional) Create a virtual environment:
